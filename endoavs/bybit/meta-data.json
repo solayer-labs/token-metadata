@@ -1,6 +1,6 @@
 {
     "name": "Bybit Staked SOL",
-    "symbol": "bybitsSOL",
+    "symbol": "bybitSOL",
     "description": "Bybit Staked SOL",
     "image": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/endoavs/bybit/Bybit.png"
 }
