@@ -1,6 +1,6 @@
 {
-    "name": "Bitget Restaked SOL",
-    "symbol": "bgSOL",
-    "description": "Bitget Restaked SOL",
-    "image": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/endoavs/bitget/bitget.png"
+    "name": "Bitget Staked SOL",
+    "symbol": "BGSOL",
+    "description": "Bitget Staked SOL",
+    "image": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/endoavs/bitget/bgsol.jpeg"
 }
