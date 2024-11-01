@@ -1,6 +1,6 @@
 {
-    "name": "Kamino Finance AVS Token",
-    "symbol": "kaminosSOL",
-    "description": "Kamino Finance AVS Token",
-    "image": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/endoavs/elections/trump/trump.png"
+    "name": "Trump AVS Token",
+    "symbol": "TrumpsSOL",
+    "description": "Trump AVS Token",
+    "image": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/endoavs/elections/trump/trump.jpg"
 }
